@@ -1,9 +1,9 @@
-package firstpackage;
+package com.tnsif.dayfour.firstpackage;
 
 public class Executor {
-		// TODO Auto-generated method stub
-		//Program to demonstrate accessing classes and me
-			public static void main(String[] args) {
+
+	public static void main(String[] args) {
+		//Program to demonstrate accessing classes and methods
 				
 			//accessing same package class
 				Base b1=new Base();
@@ -32,7 +32,8 @@ public class Executor {
 				 * Incompatible types
 				 */	}
 
-		}
+		
+
 	}
 
-}
+
