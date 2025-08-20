@@ -3,8 +3,12 @@ package com.tnsif.abstraction_example;
 public class TnsifCgDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Trainer t=new TechTrainer();
+		t.session();
+		t.checks();
+		t=new SoftSkillTrainer();
+		t.session();
+		t.checks();
 	}
 
 }

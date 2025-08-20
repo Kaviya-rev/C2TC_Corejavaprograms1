@@ -1,9 +1,13 @@
 package com.tnsif.abstraction_example;
 
-public class Trainer {
+public abstract class Trainer {
 
-	public Trainer() {
-		// TODO Auto-generated constructor stub
+		abstract void session();
+		abstract void checks();
+		public void display()
+		{
+			System.out.println("TNS Capegemini Trainers..");
+		}
 	}
 
-}
+

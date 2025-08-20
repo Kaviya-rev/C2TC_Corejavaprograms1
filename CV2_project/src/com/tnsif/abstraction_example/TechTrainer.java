@@ -1,9 +1,15 @@
 package com.tnsif.abstraction_example;
 
-public class TechTrainer {
+public class TechTrainer extends Trainer {
 
-	public TechTrainer() {
-		// TODO Auto-generated constructor stub
+	@Override
+	public void session() 
+	{
+		System.out.println("Core java session is going on");
 	}
-
+	@Override
+	public void checks()
+	{
+		System.out.println("Assingments given from Inheritance");
+	}
 }
