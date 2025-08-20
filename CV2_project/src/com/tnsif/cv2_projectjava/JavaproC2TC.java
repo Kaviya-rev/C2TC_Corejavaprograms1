@@ -1,4 +1,4 @@
-package cv2_projectjava;
+package com.tnsif.cv2_projectjava;
 
 public class JavaproC2TC {
 

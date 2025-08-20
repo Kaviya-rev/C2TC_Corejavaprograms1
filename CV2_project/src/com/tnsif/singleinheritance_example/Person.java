@@ -1,4 +1,4 @@
-package singleinheritance_example;
+package com.tnsif.singleinheritance_example;
 
 public class Person {
 	private int pid;

@@ -1,4 +1,4 @@
-package scannerdemo;
+package com.tnsif.scannerdemo;
 import java.util.Scanner;
 public class PersonDemo {
 

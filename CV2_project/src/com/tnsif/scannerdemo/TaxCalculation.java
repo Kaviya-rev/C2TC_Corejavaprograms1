@@ -1,4 +1,4 @@
-package scannerdemo;
+package com.tnsif.scannerdemo;
 
 public class TaxCalculation {
 	public void calculateTax(Person person) {

@@ -1,4 +1,4 @@
-package bufferreader_example;
+package com.tnsif.bufferreader_example;
 import java.io.*;
 public class Bufferedreader {
 

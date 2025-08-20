@@ -1,4 +1,4 @@
-package scannerdemo;
+package com.tnsif.scannerdemo;
 
 public class Person {
 	private String name;
