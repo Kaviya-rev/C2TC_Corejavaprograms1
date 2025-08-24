@@ -16,6 +16,8 @@ public class Identifiers {
 			//int @number3 = 10;
 			
 			//Valid Identifier Examples
+			int Same = 20;
+			System.out.println("value of same is:"+ Same);
 			
 			int $number = 20; //starts with $
 			System.out.println("value of the number variable is : "+ $number);

@@ -1,8 +1,6 @@
 package com.tnsif.dayone;
 
 public class TypeCasting {
-
-	public TypeCasting() {
 		public static void main(String[] args) {
 			// widening / implicit type casting
 			
@@ -39,7 +37,8 @@ public class TypeCasting {
 			byte b1 = 90;
 			char ch1 = (char) b1;
 			System.out.println(ch1);
-}
+		}
 	}
+        
 
 
